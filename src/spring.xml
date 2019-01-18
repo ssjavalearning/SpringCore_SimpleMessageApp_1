@@ -5,7 +5,7 @@
 	http://www.springframework.org/schema/beans/spring-beans-4.2.xsd">
 
 	<bean id="helloMessage" class="com.suraj.spring.model.HelloMessage">
-		<property name="messageId" value="1001" />
-		<property name="message" value="welcome to spring" />
+		<property name="messageId" value="1002" />
+		<property name="message" value="welcome to spring-core" />
 	</bean>
 </beans>
