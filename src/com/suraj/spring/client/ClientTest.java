@@ -17,6 +17,8 @@ public class ClientTest {
 		HelloMessage hmessage = (HelloMessage)factory.getBean("helloMessage");
 		System.out.println(hmessage.getMessageId()+"\t"+hmessage.getMessage());
 		System.out.println(factory);
+		System.out.println("-------------------");
+		
 		
 	}
 }
