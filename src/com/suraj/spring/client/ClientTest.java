@@ -18,7 +18,6 @@ public class ClientTest {
 		System.out.println(hmessage.getMessageId()+"\t"+hmessage.getMessage());
 		System.out.println(factory);
 		System.out.println("-------------------");
-		
-		
+		System.out.println("demo2");
 	}
 }
